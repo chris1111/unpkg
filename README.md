@@ -5,7 +5,7 @@
 Small Video
 ==================
 
-https://user-images.githubusercontent.com/6248794/105172564-cee81f80-5aed-11eb-9b7c-3ac7c07a1f8d.mov
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://user-images.githubusercontent.com/6248794/105172564-cee81f80-5aed-11eb-9b7c-3ac7c07a1f8d.mov)
 
 ==================
 
